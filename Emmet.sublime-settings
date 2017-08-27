@@ -1,0 +1,9 @@
+{
+  "snippets":{
+    "html": {
+      "snippets": {
+        "php":"<?php $1 ?>"
+      }
+    }
+  }
+}
