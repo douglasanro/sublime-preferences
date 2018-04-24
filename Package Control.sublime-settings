@@ -10,6 +10,7 @@
 		"AutoFileName",
 		"Babel",
 		"Better CoffeeScript",
+		"BracketHighlighter",
 		"Color Highlighter",
 		"DocBlockr",
 		"EditorConfig",
@@ -34,9 +35,8 @@
 		"Stylus",
 		"Stylus-Snippets",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"SVG-Snippets",
-		"Syntax Highlighting for Sass",
 		"Tomorrow Color Schemes",
 		"WakaTime"
 	]

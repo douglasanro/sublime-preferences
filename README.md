@@ -17,6 +17,7 @@ See [Package Control.sublime-settings](Package%20Control.sublime-settings) for i
 * AutoFileName
 * Babel
 * Better CoffeeScript
+* BracketHighlighter
 * Color Highlighter
 * DocBlockr
 * EditorConfig
@@ -41,15 +42,14 @@ See [Package Control.sublime-settings](Package%20Control.sublime-settings) for i
 * Stylus
 * Stylus-Snippets
 * SublimeLinter
-* SublimeLinter-contrib-eslint
+* SublimeLinter-eslint
 * SVG-Snippets
-* Syntax Highlighting for Sass
 * Tomorrow Color Schemes
 * WakaTime
 
 ## Theme
 
-Material Theme
+Material Theme (Palenight)
 
 ## Font
 
